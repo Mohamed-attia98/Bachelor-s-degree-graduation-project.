@@ -9,8 +9,8 @@ The main goal is to analyze data to gain useful insights and then implement a ma
 1. Data exploration : Trying to understand what the data contains, data size, its columns types.
 2. Data processing : Transforming raw data into a well-formed data, so that data mining analytics can be applied.
 3. Exploratory Data Analysis (EDA) and visualization : 
-- At this phase, data mining analytics can be applied to extract valuable insight.
-- Then visualizing the insights using visualization tools to help stakeholders make the right decisions.
+  - At this phase, data mining analytics can be applied to extract valuable insight.
+  - Then visualizing the insights using visualization tools to help stakeholders make the right decisions.
 4.Feature engineering and extraction
 
  
