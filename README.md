@@ -19,6 +19,9 @@ Bachelor's degree graduation project. The main goal is to analyze customer trans
 ## Demo
 - One dashboard of two dashboards we created in Power BI, showing the sales over the months and the top ten products, and the total sales and total sales for each country
  ![Sales Dashboard](https://user-images.githubusercontent.com/82019926/218533618-7e89d85b-2620-45da-bdab-eb1a6c86893a.png)
+ - This is the final product and it is a website built on the kmeans algorithm, it works by outputting the cluster number for the customers after inputting their data.
+ ![image](https://user-images.githubusercontent.com/82019926/218544009-bbf412aa-816f-452d-baf2-6bb336b54773.png)
+ 
 
 
 
