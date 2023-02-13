@@ -12,7 +12,7 @@ Bachelor's degree graduation project. The main goal is to analyze customer trans
 4. Feature engineering and Feature extraction: Selecting and transforming the most relevant variables from raw data when creating machine learning models, which can improve the performance of ML algorithms.
 5. Machine learning model: ML algorithms like K-means and hierarchical clustering are used to cluster customers and dimension reduction algorithms, such as T-SNE, are used to reduce dimensions.
 6. Deployment: The last stage is to help stakeholders easily use the ML model via a small website 
-## Tools
+## Technical details
 - the cleaning and data visualization process was carried out using both python libraries(Pandas ,Numpy, Matplotlib , Seaborn) and Power bi
 - deployed machine learning models( KMeans - AgglomerativeClustering - TSNE ) using scikit learn
 - Implemented a small website to deploy the ml model using Streamlit
