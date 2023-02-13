@@ -16,9 +16,9 @@ Bachelor's degree graduation project. The main goal is to analyze customer trans
 - the cleaning and data visualization process was carried out using both python libraries(Pandas ,Numpy, Matplotlib , Seaborn) and Power bi
 - deployed machine learning models( KMeans - AgglomerativeClustering - TSNE ) using scikit learn
 - Implemented a small website to deploy the ml model using Streamlit
-## demo
+## Demo
 - One dashboard of two dashboards we created in Power BI, showing the sales over the months and the top ten products, and the total sales and total sales for each country
- ![image](https://user-images.githubusercontent.com/82019926/218533618-7e89d85b-2620-45da-bdab-eb1a6c86893a.png)
+ ![Sales Dashboard](https://user-images.githubusercontent.com/82019926/218533618-7e89d85b-2620-45da-bdab-eb1a6c86893a.png)
 
 
 
