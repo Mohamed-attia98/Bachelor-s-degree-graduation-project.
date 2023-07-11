@@ -6,12 +6,12 @@ Bachelor's degree graduation project. The main goal is to analyze customer trans
 - Analyze the data and extract valuable insights to enhance business value.
 - implementing customer segmentation model based on needs and behaviors, enabling us to target specific groups and thereby boost product sales.
 ## Steps
-1. Data exploration: Trying to understand what the data contains, its size, and its column types.
-2. Data processing: Transforming raw data into a well-formed dataset so that data analytics can be applied.
-3. Exploratory Data Analysis (EDA) and visualization: Applying data analytics to extract useful insights, then visualizing the insights using visualization tools to help stakeholders make the right decisions.
-4. Feature engineering and Feature extraction: Selecting and transforming the most relevant variables from raw data when creating machine learning models, which can improve the performance of ML algorithms.
-5. Machine learning model: ML algorithms like K-means and hierarchical clustering are used to cluster customers and dimension reduction algorithms, such as T-SNE, are used to reduce dimensions.
-6. Deployment: The last stage is to help stakeholders easily use the ML model via a small website 
+1. __Data exploration__: Trying to understand what the data contains, its size, and its column types.
+2. __Data processing__: Transforming raw data into a well-formed dataset so that data analytics can be applied.
+3. __Exploratory Data Analysis (EDA) and visualization__: Applying data analytics to extract useful insights, then visualizing the insights using visualization tools to help stakeholders make the right decisions.
+4. __Feature engineering and Feature extraction__: Selecting and transforming the most relevant variables from raw data when creating machine learning models, which can improve the performance of ML algorithms.
+5. __Machine learning model__: ML algorithms like K-means and hierarchical clustering are used to cluster customers and dimension reduction algorithms, such as T-SNE, are used to reduce dimensions.
+6. __Deployment__: The last stage is to help stakeholders easily use the ML model via a small website 
 ## Technical details
 - the cleaning and data visualization process was carried out using both python libraries(Pandas ,Numpy, Matplotlib , Seaborn) and Power bi
 - deployed machine learning models( KMeans - AgglomerativeClustering - TSNE ) using scikit learn
